@@ -21,7 +21,7 @@ Install the required libraries
 ```bash
 pip install requests
 ```
-Edit data.txt
+## Edit accounts.txt
 
 Execute the main program
 
