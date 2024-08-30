@@ -6,7 +6,8 @@ Copy code
 ## Install Python and Git
 Untuk menggunakan skrip ini, pastikan Anda sudah menginstal Python dan Git di sistem Anda. Anda dapat menginstal Python dan Git dengan perintah berikut:
 ```bash
-sudo apt install python3 python3-pip git 
+sudo apt install python3
+python3-pip git 
 ```
 Clone this repository
 Setelah Python dan Git terinstal, Anda dapat mengkloning repositori ini menggunakan perintah berikut:
