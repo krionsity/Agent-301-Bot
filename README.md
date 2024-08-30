@@ -1,6 +1,3 @@
-README.md
-markdown
-Copy code
 # Agent-301-Bot
 
 ## Install Python and Git
